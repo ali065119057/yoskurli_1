@@ -1,0 +1,15 @@
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/yoskurli_1
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/twitter.svg
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/google-plus.svg
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/assets/icons/facebook.svg
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/yan/mobpro/uap/yoskurli_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
